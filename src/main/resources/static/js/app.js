@@ -1,0 +1,1 @@
+function selectMatch(id){document.getElementById('matchId').value=id;}
